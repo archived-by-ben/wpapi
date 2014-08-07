@@ -1,0 +1,27 @@
+/* css/wpapi.css */
+
+html {
+}
+
+body {
+  margin: 1em;
+}
+
+hr {
+	border: 0;
+	height: 1px;
+	background-color: skyblue;
+}
+
+.alert {
+	color: FireBrick;
+}
+.success {
+	color: CornflowerBlue;
+}
+.recommend {
+	color: MediumSeaGreen;
+}
+.notrecommend {
+	color: Orange;
+}
