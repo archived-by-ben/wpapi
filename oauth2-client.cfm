@@ -138,7 +138,7 @@
 							<input type="text" class="form-control" name="grant_type" value="authorization_code" readonly>
 						</div>
 
-						<button type="submit" class="btn btn-default" name="submit">Request token</button>
+						<button type="submit" class="btn btn-default" name="submit">Request standard access</button>
 						<button type="reset" class="btn btn-default">Reset</button>
 					</form>
 				</div>
